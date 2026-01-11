@@ -1,20 +1,27 @@
-cityscapes
-output
-kitti
-coco2017
-
-output*
-results
-
+.vscode
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+*.pkl
+*.db
+*.sqlite3
+*.log
+*.csv
+*.tsv
 *.json
+*.xml
+*.yaml
+*.yml
+*.pickle
+*.h5
 
-datasets
-dataset_zoo
+*.pt
 
-test/*.ipynb
+work_dirs
+./datasets
+./datasets/bdd100k
+./datasets/coco2017
+output
 
-demo
-
-*.zip
-
-*.ipynb
+runs
