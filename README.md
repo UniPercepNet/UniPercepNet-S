@@ -1,4 +1,4 @@
-# UniPercepNet-S: : A Lightweight Dual-Task Framework with Attention Mechanisms for Real-Time Object Detection and Instance Segmentation
+# UniPercepNet-S: A Lightweight Dual-Task Framework with Attention Mechanisms for Real-Time Object Detection and Instance Segmentation
 
 ![Model pipeline](./asset/model_pipeline.png)
 
